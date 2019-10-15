@@ -1,0 +1,5 @@
+Erik,22,Norway
+Johan,96,Latvia
+Sven,11,Germany
+Aron,28,Sweden
+Hans,88,England

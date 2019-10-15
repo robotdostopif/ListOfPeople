@@ -1,0 +1,14 @@
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\bin\Debug\ListOfPeople.exe.config
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\bin\Debug\ListOfPeople.exe
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\bin\Debug\ListOfPeople.pdb
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\MainWindow.g.cs
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\App.g.cs
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople_MarkupCompile.cache
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople_MarkupCompile.lref
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\MainWindow.baml
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople.g.resources
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople.Properties.Resources.resources
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople.csproj.GenerateResource.cache
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople.exe
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople.pdb
+C:\Users\aronc\Documents\TH2019HT\Programmeringsteknik C#\GitHubProjects\ListOfPeople\ListOfPeople\obj\Debug\ListOfPeople.csprojAssemblyReference.cache
